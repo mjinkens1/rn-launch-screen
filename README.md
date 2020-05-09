@@ -1,17 +1,12 @@
 # react-native-launch-screen
 
 ## Getting started
-
-`$ npm install react-native-launch-screen --save`
+`$ yarn add @mjinkens1/react-native-launch-screen --save`
+`$ npm install @mjinkens1/react-native-launch-screen --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-launch-screen`
+`$ cd ios && pod install`
 
 ## Usage
-```javascript
-import LaunchScreen from 'react-native-launch-screen';
 
-// TODO: What to do with the module?
-LaunchScreen;
-```
