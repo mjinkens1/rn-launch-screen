@@ -1,0 +1,6 @@
+/example
+/node_modules
+.gitattributes
+.gitignore
+.eslintrc.js
+.prettierrc.js
