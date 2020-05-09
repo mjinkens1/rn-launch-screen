@@ -1,8 +1,8 @@
-# react-native-launch-screen
+# rn-launch-screen
 
 Customizable launch screen for React Native with support for launch videos
 
-![Launch Video](https://github.com/mjinkens1/rn-launch-screen/RNLaunchScreen.gif)
+![Launch Video](RNLaunchScreen.gif)
 
 ## Getting started
 
